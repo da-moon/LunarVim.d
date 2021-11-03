@@ -1,0 +1,4 @@
+ignore
+/.bak/
+/plugin/packer_compiled.lua
+
