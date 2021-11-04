@@ -1,6 +1,5 @@
 -- general
-print("general loaded")
-lvim.log.level = "warn"
+lvim.log.level = "INFO"
 lvim.format_on_save = true
 lvim.colorscheme = "onedarker"
 
